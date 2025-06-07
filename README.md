@@ -12,8 +12,11 @@
 
 <p align="center"> Made with 💻 + ☕ by <b>Kongali1720</b> </p>
 
+
+## 🎬 Demo
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MTgxbXZsd3p5bm90MG1ocTRyaXpneXR0NmIzZ2oyYzZ4eXZ5cnpqMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LyV4cw0vDtAgc8xTHQ/giphy.gif" alt="STORM Demo GIF" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MTgxbXZsd3p5bm90MG1ocTRyaXpneXR0NmIzZ2oyYzZ4eXZ5cnpqMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LyV4cw0vDtAgc8xTHQ/giphy.gif" alt="STORM Demo" />
 </p>
 
 ---
@@ -76,12 +79,24 @@ Contoh Input:
 
     Masukkan topik utama: Teknologi Blockchain untuk Pemula
 
-Contoh Output:
+## 🌐🛡️ Kerangka Contoh: Keamanan Siber untuk Remaja
 
-    I. Pengantar Blockchain
-    II. Bagaimana Blockchain Bekerja
-    III. Aplikasi Blockchain di Dunia Nyata
-    IV. Tantangan dan Masa Depan Blockchain
+| 🔢 Bagian | 🧩 Subbagian | 📚 Judul |
+|:---------:|:------------:|----------|
+| **I. 🚀 Pendahuluan** | **A** | 🔍 Apa Itu Keamanan Siber? |
+|                      | **B** | 👩‍💻 Kenapa Penting Buat Kita (Remaja)? |
+| **II. ⚠️ Ancaman Umum di Dunia Digital** | **A** | 🎣 Phishing: Jangan Sampai Kecantol! |
+|                                          | **B** | 🦠 Malware: Virus Ga Cuma di Dunia Nyata |
+|                                          | **C** | 💔 Cyberbullying: Komentar Bisa Menyakiti |
+| **III. 🔐 Tips Dasar untuk Keamanan Akun** | **A** | 🔑 Bikin Password Seperti Ninja! |
+|                                           | **B** | ✅ Aktifin Autentikasi 2 Langkah |
+|                                           | **C** | 🧐 Hati-Hati Klik Link & Lampiran Asal |
+| **IV. 🧠 Pentingnya Kesadaran Digital Sejak Dini** | **A** | 🏫 Belajar Keamanan Siber di Sekolah |
+|                                                 | **B** | 👨‍👩‍👧 Peran Orang Tua & Guru Itu Penting |
+| **V. 📚 Sumber Daya & Referensi** | **A** | 🌐 Website Edukasi Keren |
+|                                | **B** | 💡 Kursus Online Buat Nambah Ilmu |
+
+---
 
 # 🔧 Konfigurasi .env (opsional)
 
@@ -91,56 +106,59 @@ Gunakan .env untuk menyimpan key secara aman:
 
 ---
 
-# 🧠 Teknologi yang Digunakan
 
-  Python 3.8+
-  LangChain
-  OpenAI GPT
-  CLI-based Interface
-  (Coming soon) Flask Web UI
+## 🧠 Teknologi yang Digunakan
 
-# 🔮 Roadmap
+| 💻 No | 🛠️ Teknologi | 📌 Keterangan |
+|:----:|:------------:|--------------|
+| 1 | **Python 3.8+** | Bahasa utama |
+| 2 | **LangChain** | Integrasi pemrosesan informasi |
+| 3 | **OpenAI GPT** | Mesin AI untuk sintesis topik |
+| 4 | **CLI-based Interface** | Antarmuka awal berbasis terminal |
+| 5 | **(Coming Soon) Flask Web UI** | UI berbasis web interaktif |
 
-   Outline Generator berbasis GPT
-   Integrasi LangChain
-   Web UI dengan Flask
-   Fitur Export (.md / .docx / .pdf)
-   Auto web crawler / search (opsional)
-   Multilingual support (ID / EN)
+---
 
-# 📄 Lisensi
+## 🔮 Roadmap
 
-  MIT License — Bebas digunakan, dimodifikasi, dan dikembangkan untuk kebaikan 🌍
+| 🔢 Tahap | 🎯 Fitur | 📈 Status |
+|:-------:|:--------:|:---------:|
+| 1 | **Outline Generator berbasis GPT** | ✅ Selesai |
+| 2 | **Integrasi LangChain** | ✅ Selesai |
+| 3 | **Web UI dengan Flask** | 🔄 Dalam Pengembangan |
+| 4 | **Fitur Export (.md / .docx / .pdf)** | 🧩 Direncanakan |
+| 5 | **Auto Web Crawler / Search (Opsional)** | 🧪 Eksperimen |
+| 6 | **Multilingual Support (ID / EN)** | 🌍 Segera Hadir |
 
-# 👨‍💻 Dibuat oleh
+---
 
-  Bang Kongali1720
-  💼 Cyber Security Enthusiast • Open Source Contributor • Creative Coder
-  🌐 GitHub
+## 🙌 Kontribusi
+
+Mau bantu bikin STORM makin dahsyat?  
+Yuk open pull request atau DM langsung!  
+Kita bikin edukasi digital makin powerful bareng-bareng! 💪
+
+---
+
+# 📜 License
+
+MIT License — Bebas digunakan, dimodifikasi, dan dikembangkan untuk kebaikan 🌍  
+MIT License - feel free to fork, enhance, and contribute!
+Tetap sertakan atribusi ya bro! ✌️
+
+---
+
+> Dibuat dengan ❤️ oleh [@kongali1720](https://github.com/kongali1720)  
 
 # 🤝 Kontribusi
 
   Pull request dan issue sangat diterima!
   Bintang ⭐ juga bikin semangat nambahin fitur baru! 💪
-
-
-
-
-
-
-
-
-
-
-
-
+  
 ---
 
-# 📜 License
-  
-  MIT License - feel free to fork, enhance, and contribute!
-
 # ❤️ Special Thanks
+
   Made with 🔥 by KONGALI1720 Cyber Force.
 
   “Scan like a ghost, strike like a hammer.”

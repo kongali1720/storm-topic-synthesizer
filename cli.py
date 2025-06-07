@@ -6,10 +6,10 @@ def main():
     topic = input("Masukkan topik utama: ")
     print("⏳ Mengambil referensi...")
     refs = get_references(topic)
+    print("🧠 Menghasilkan outline dengan GPT...")
     outline = generate_outline(topic, refs)
     print("\n📄 Hasil Outline:")
-    for i, item in enumerate(outline, 1):
-        print(f"{i}. {item}")
+    print(outline)
 
 if __name__ == "__main__":
     main()

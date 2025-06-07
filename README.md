@@ -253,28 +253,35 @@ They are not different — they were born to teach the world pure love and extra
 
 ---
 
-<section align="center">
+<section align="center" style="font-family: Arial, sans-serif;">
 
-## 💳 Dukungan Pembayaran DONASINYA
+<h2 style="margin-bottom: 20px; color: #0070f3;">💳 Dukungan Pembayaran DONASINYA</h2>
 
-<table align="center" aria-label="Metode Pembayaran">
-  <thead>
+<table align="center" aria-label="Metode Pembayaran" style="margin: 0 auto; border-collapse: collapse; box-shadow: 0 4px 10px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+  <thead style="background-color: #0070f3; color: white;">
     <tr>
-      <th>Visa</th>
-      <th>Mastercard</th>
-      <th>PayPal</th>
+      <th style="padding: 12px 25px; font-size: 18px;">Visa</th>
+      <th style="padding: 12px 25px; font-size: 18px;">Mastercard</th>
+      <th style="padding: 12px 25px; font-size: 18px;">PayPal</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody style="background-color: #f9f9f9;">
     <tr>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Visa_Logo.png/120px-Visa_Logo.png" alt="Logo Visa" width="100" /></td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mastercard-logo.svg/120px-Mastercard-logo.svg.png" alt="Logo Mastercard" width="100" /></td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PayPal_logo.svg/120px-PayPal_logo.svg.png" alt="Logo PayPal" width="100" /></td>
+      <td style="padding: 15px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Visa_Logo.png/120px-Visa_Logo.png" alt="Logo Visa" width="110" />
+      </td>
+      <td style="padding: 15px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mastercard-logo.svg/120px-Mastercard-logo.svg.png" alt="Logo Mastercard" width="110" />
+      </td>
+      <td style="padding: 15px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PayPal_logo.svg/120px-PayPal_logo.svg.png" alt="Logo PayPal" width="110" />
+      </td>
     </tr>
   </tbody>
 </table>
 
 </section>
+
 
 ---
 

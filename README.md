@@ -253,25 +253,28 @@ They are not different — they were born to teach the world pure love and extra
 
 ---
 
-  <section id="dukungan-pembayaran">
-    <h2>💳 Dukungan Pembayaran DONASINYA </h2>
-    <table class="payment" aria-label="Metode Pembayaran">
-      <thead>
-        <tr>
-          <th>Visa</th>
-          <th>Mastercard</th>
-          <th>PayPal</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Visa_Logo.png/120px-Visa_Logo.png" alt="Logo Visa" /></td>
-          <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mastercard-logo.svg/120px-Mastercard-logo.svg.png" alt="Logo Mastercard" /></td>
-          <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PayPal_logo.svg/120px-PayPal_logo.svg.png" alt="Logo PayPal" /></td>
-        </tr>
-      </tbody>
-    </table>
-  </section>
+<section align="center">
+
+## 💳 Dukungan Pembayaran DONASINYA
+
+<table align="center" aria-label="Metode Pembayaran">
+  <thead>
+    <tr>
+      <th>Visa</th>
+      <th>Mastercard</th>
+      <th>PayPal</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Visa_Logo.png/120px-Visa_Logo.png" alt="Logo Visa" width="100" /></td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mastercard-logo.svg/120px-Mastercard-logo.svg.png" alt="Logo Mastercard" width="100" /></td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PayPal_logo.svg/120px-PayPal_logo.svg.png" alt="Logo PayPal" width="100" /></td>
+    </tr>
+  </tbody>
+</table>
+
+</section>
 
 ---
 

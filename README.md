@@ -285,16 +285,13 @@ They are not different — they were born to teach the world pure love and extra
 
 ---
 
-Kalau project ini bantu kamu, jangan lupa kasih bintang ⭐ dan share ke temen-temen ya!  
-Follow @kongali1720 buat diskusi dan update seru lainnya 🔥
+<p align="center">
+  Kalau project ini bantu kamu, jangan lupa kasih bintang ⭐ dan share ke temen-temen ya!<br>
+  Follow <a href="https://twitter.com/kongali1720" target="_blank" rel="noopener noreferrer">@kongali1720</a> buat diskusi dan update seru lainnya 🔥
+</p>
 
----
-
-<div class="twitter-badge" style="text-align: center; margin-top: 20px;">
+<p align="center" style="margin-top: 20px;">
   <a href="https://twitter.com/kongali1720" target="_blank" rel="noopener noreferrer" aria-label="Follow kongali1720 on Twitter">
     <img src="https://img.shields.io/twitter/follow/kongali1720?style=social" alt="Twitter Follow Badge" />
   </a>
-</div>
-
-<footer>
-
+</p>
